@@ -84,7 +84,7 @@
 
           let format = this.curencySymbol + commaAdder(str);
 
-               // format = this.curencySymbol + format;
+                format = this.curencySymbol + format;
             
                 return format  ;
                   
